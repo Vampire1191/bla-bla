@@ -329,7 +329,10 @@ text-align: center;
 /* <!-- Sektion-4 --> */
 
 .section-ssss{
-  padding: 120px 0 120px 0;
+padding: 120px 0 120px 0;
+margin-bottom: 72px;
+display: flex; column-gap: wrap;
+row-gap: 48px;
 }
 
 .container-four {
