@@ -14,7 +14,9 @@ body {
 img {
 	display: block;
   max-width: 100%;
+  height: auto;
 }
+
 .card.no-gap {
   display: block;
 }
@@ -34,6 +36,12 @@ ul {
   list-style-type: none;
   margin: 0;
 }
+
+a {
+  text-decoration: none;
+}
+
+
 
 /* top-line-header */
 .page-header {
