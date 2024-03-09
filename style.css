@@ -329,10 +329,10 @@ text-align: center;
 /* <!-- Sektion-4 --> */
 
 .section-ssss{
-padding: 120px 0 120px 0;
-margin-bottom: 72px;
-display: flex; column-gap: wrap;
-row-gap: 48px;
+  padding: 120px 0 120px 0;
+  border: 1px solid #e7e9fc;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .container-four {
